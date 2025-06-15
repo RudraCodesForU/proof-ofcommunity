@@ -1,0 +1,14 @@
+# Node
+node_modules
+.env
+.env.local
+# Frontend
+/frontend/build
+/frontend/.next
+# Backend
+/backend/dist
+# Contracts
+/contracts/build
+/contracts/artifacts
+# Misc
+.DS_Store
