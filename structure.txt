@@ -1,0 +1,20 @@
+proof-of-community/
+│
+├── contracts/                 # Smart contracts
+│   └── ProofOfCommunity.sol
+│
+├── frontend/                  # React frontend
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   └── App.jsx
+│   └── package.json
+│
+├── backend/                   # Node.js backend (AI service)
+│   ├── src/
+│   │   └── index.js
+│   └── package.json
+│
+├── README.md
+└── docs/                      # Additional documentation
